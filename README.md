@@ -5,16 +5,16 @@
 ---
 
 ```js
-import Desenvolvedor from "juliadelis";
+import Developer from "juliadelis";
 
-class SobreMim extends Desenvolvedor {
+class AboutMe extends Developer {
   name = "Julia Delis";
   area = "Front End Developer";
   languages = "["pt_BR", "en_US"];"
   
 }
 
-class Greetings extends Desenvolvedor {
+class Greetings extends Developer {
   Greetings = "Thanks for taking the time to visit, your interest means a lot to me. Hope you like what you see :)"
 }
 ```
