@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=juliadelis&color=006bed)
 
-### Hi there 👋
+### Hi there ✨
 
 ---
 
@@ -8,14 +8,14 @@
 import Desenvolvedor from "juliadelis";
 
 class SobreMim extends Desenvolvedor {
-  nome = "Julia Delis";
+  name = "Julia Delis";
   area = "Front End Developer";
   languages = "["pt_BR", "en_US"];"
   
 }
 
 class Greetings extends Desenvolvedor {
-  Greetings = "Thanks for taking the time to visit, hope you like what you see :)"
+  Greetings = "Thanks for taking the time to visit, your interest means a lot to me. Hope you like what you see :)"
 }
 ```
 
