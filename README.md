@@ -14,8 +14,8 @@ class SobreMim extends Desenvolvedor {
   
 }
 
-class SayHi extends Desenvolvedor {
-  sayHi = "Thanks for taking the time to visit, hope you find some of my work intriguing."
+class Greetings extends Desenvolvedor {
+  Greetings = "Thanks for taking the time to visit, hope you like what you see :)"
 }
 ```
 
