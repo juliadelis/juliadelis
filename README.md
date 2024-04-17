@@ -10,7 +10,7 @@ import Developer from "juliadelis";
 class AboutMe extends Developer {
   name = "Julia Delis";
   area = "Front End Developer";
-  languages = "["pt_BR", "en_US"];"
+  languages = "["pt_BR", "en_US", "es_ES"];"
   
 }
 
